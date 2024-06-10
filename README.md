@@ -120,5 +120,15 @@ This page showcases various off-campus opportunities for students.
 # Chatbot (Synthia🤖):
 
 This chatbot is designed to provide interactive communication and assistance to users. It can answer questions, provide information, and execute tasks based on user input. The chatbot uses natural language processing (NLP) to understand and respond to user queries.
+<img width="300" alt="Screenshot 2024-06-10 at 8 17 04 PM" src="https://github.com/mohanakrishna-arepalli/CareerIntel/assets/101661844/6ad5ebb4-05cf-42a4-95b4-0776b2f8ac8c">
+<img width="295" alt="Screenshot 2024-06-10 at 8 17 44 PM" src="https://github.com/mohanakrishna-arepalli/CareerIntel/assets/101661844/f97a8702-b942-4c06-b40e-09387a401a17">
+<img width="295" alt="Screenshot 2024-06-10 at 8 20 10 PM" src="https://github.com/mohanakrishna-arepalli/CareerIntel/assets/101661844/ff6a462f-0751-477d-bfca-213cdfe671ee">
+<img width="298" alt="Screenshot 2024-06-10 at 8 20 25 PM" src="https://github.com/mohanakrishna-arepalli/CareerIntel/assets/101661844/3e10465d-acb4-470d-83f7-f3ea4a6f1c03">
+<img width="299" alt="Screenshot 2024-06-10 at 8 19 43 PM" src="https://github.com/mohanakrishna-arepalli/CareerIntel/assets/101661844/2ee740cc-e844-4586-9a26-548660e01620">
+<img width="297" alt="Screenshot 2024-06-10 at 8 18 27 PM" src="https://github.com/mohanakrishna-arepalli/CareerIntel/assets/101661844/2d18356b-3afd-4092-a2fa-42cf36e187ea">
+<img width="299" alt="Screenshot 2024-06-10 at 8 18 47 PM" src="https://github.com/mohanakrishna-arepalli/CareerIntel/assets/101661844/14ee06de-9f81-4ea8-afad-23c9c07502d8">
+<img width="297" alt="Screenshot 2024-06-10 at 8 18 07 PM" src="https://github.com/mohanakrishna-arepalli/CareerIntel/assets/101661844/01b7c2b1-d278-41ef-9214-43b495085ccc">
+
+
 
 
